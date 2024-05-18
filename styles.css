@@ -1,0 +1,9 @@
+ul {
+    width: 20vw;
+    height: 20vw;
+    background-color: aqua;
+}
+
+li {
+    list-style: none;
+}
